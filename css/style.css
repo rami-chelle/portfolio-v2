@@ -416,3 +416,8 @@ button:hover {
     align-items: center;
     margin: 50px;
 }
+
+img.logo{
+    height: auto;
+    width: 50px;
+}
